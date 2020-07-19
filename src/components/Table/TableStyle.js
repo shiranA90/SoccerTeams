@@ -4,7 +4,7 @@ export const StyledTable = styled.table`
     display: flex;
     justify-content: center;
     border-collapse: collapse;
-    padding-top: 20px;
+    padding: 20px 0px 20px 0px;
     tr {
         padding: 10px 10px 10px 10px;
         width: 100%

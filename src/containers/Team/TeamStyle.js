@@ -9,7 +9,6 @@ export const TeamName = styled.h1`
 
 export const TeamInfoContainer = styled.div`
     text-align: center;
-
 `
 
 export const TeamLogo = styled.img`
